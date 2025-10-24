@@ -1,0 +1,58 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "name": "Ocean View Apartment",
+      "type": "Apartment",
+      "location": "Miami",
+      "price": 250000,
+      "description": "Beautiful apartment near the ocean with stunning sea views.",
+      "image": "https://png.pngtree.com/thumb_back/fw800/background/20240614/pngtree-luxury-real-estate-house-property-image_15868457.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Mountain House",
+      "type": "House",
+      "location": "Denver",
+      "price": 500000,
+      "description": "Cozy house in the mountains surrounded by nature.",
+      "image": "https://wallpapercave.com/wp/wp3784210.jpg"
+    },
+    {
+      "id": "6e7d",
+      "name": "hamkochurelohd",
+      "type": "dd",
+      "price": "900",
+      "location": "chandapur",
+      "description": "shukla",
+      "image": "https://img.freepik.com/premium-photo/large-beautiful-house-with-sign-sale-real-estate-mortgage-investment-property-generative-ai_635490-294.jpg"
+    },
+    {
+      "id": "7211",
+      "name": "ghar",
+      "type": "hai",
+      "price": "12",
+      "location": "la",
+      "description": "gg",
+      "image": "https://img.freepik.com/premium-photo/large-beautiful-house-with-sign-sale-real-estate-mortgage-investment-property-generative-ai_635490-294.jpg"
+    },
+    {
+      "id": "a70b",
+      "name": "name",
+      "type": "type",
+      "price": "1",
+      "location": "location",
+      "description": "descr",
+      "image": "https://wallpaperaccess.com/full/3885499.jpg"
+    },
+    {
+      "id": "5b37",
+      "name": "hamkochurelohd",
+      "type": "dd",
+      "price": "12",
+      "location": "chandapur",
+      "description": "h",
+      "image": "https://www.teahub.io/photos/full/1-17137_elegant-modern-luxury-house-wallpaper-luxury-house-images.jpg"
+    }
+  ]
+}
