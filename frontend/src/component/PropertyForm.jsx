@@ -14,7 +14,7 @@ const AddPropertyForm = ({ onAdded }) => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    await axios.post("http://localhost:5000/properties", form);
+    await axios.post("https://dream-property-backend.onrender.com/properties", form);
     onAdded();
     setForm({ name: "", type: "", price: "", location: "", description: "", image: "" });
   };
