@@ -17,7 +17,7 @@ import axios from "axios";
   const [openForm, setOpenForm] = useState(false);
 
            const fetchData = async () => {
-                 const res = await axios.get("http://localhost:3000/properties");
+                 const res = await axios.get("https://dream-property-backend.onrender.com/properties");
                     setProperties(res.data);
             };
 
